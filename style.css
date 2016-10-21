@@ -165,8 +165,8 @@ h3 {
 	overflow: hidden;
 }
 
-.img-thumbnail{
-	max-width: 60px;
+.content>img {
+	width: 10px;
 	display: inline;
 	padding: 5px;
 	margin: 10px;
