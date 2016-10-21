@@ -165,8 +165,8 @@ h3 {
 	overflow: hidden;
 }
 
-.content>img {
-	width: 10px;
+.content img {
+	width: 50px;
 	display: inline;
 	padding: 5px;
 	margin: 10px;
